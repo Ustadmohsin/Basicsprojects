@@ -1,0 +1,31 @@
+*{
+    
+
+}
+.navbar{
+    background: aqua; font-family: calibari; padding-right: 15px;padding-left: 15px;
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+}
+.log a{
+    font-size: 35px; font-weight: 500; color: rgb(36, 34, 34);
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: rgb(19, 17, 17); font-size: 18px; font-weight: bold; margin-right: 25px;
+}
+button {
+    background-color: rgb(187, 71, 71); margin-left: 10px; border-radius: 10px; width: 90px;
+}
+button a{
+    color: rgb(238, 231, 231); font-weight: bold; font-size: 15px;
+}
+ul{
+    justify-content: space-between;
+}
+nav{
+    display: flex; align-items: center;
+}
